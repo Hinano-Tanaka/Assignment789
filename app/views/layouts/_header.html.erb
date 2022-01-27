@@ -54,4 +54,9 @@
       </div>
     </div>
   </nav>
+  <div class="row">
+    <% if user_signed_in? %>
+      <%= render 'searches/searchbar' %>
+    <% end %>
+  </div>
 </header>
