@@ -13,8 +13,6 @@ class Book < ApplicationRecord
   end
 
 
-
-
   def save_tags(savebook_tags)
     # 現在のユーザーの持っているskillを引っ張ってきている
     current_tags = self.tags.pluck(:name) unless self.tags.nil?
