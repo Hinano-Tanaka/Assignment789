@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 課題７d８d９d
 
-Things you may want to cover:
+### 5 段階評価
+### 評価の高い順
+### タグ
 
-* Ruby version
+<!--This README would normally document whatever steps are necessary to get the-->
+<!--application up and running.-->
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<!--Things you may want to cover:-->
